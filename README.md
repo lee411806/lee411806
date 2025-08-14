@@ -1,4 +1,4 @@
-## 🧩 Algorithm
+## Algorithm
 ![Baekjoon Rank](https://mazassumnida.wtf/api/v2/generate_badge?boj=lee411806)
 
 
